@@ -1,0 +1,18 @@
+{
+  "name": "website-host-api",
+  "version": "1.0.0",
+  "description": "A API For hosting websites.",
+  "main": "server-config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "OKBBU",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "jquery": "^3.5.1"
+  }
+}
